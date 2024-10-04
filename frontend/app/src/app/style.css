@@ -1,0 +1,40 @@
+
+.links-page-container{
+    display: inline-block;
+}
+
+.li-container{
+   box-shadow: 2px 1px  lightgray;
+    color: green;
+    padding: 12px 24px ;
+    border-radius: 8px;
+    border: 1px solid lightgray;
+    margin-bottom: 12px;
+}
+
+.link-text{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+.link-text:hover{
+    color: black;
+}
+
+.button-container{
+    display: flex;
+    justify-content: end;
+}
+
+.button{
+    padding: 12px 12px;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.button-text{
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+}

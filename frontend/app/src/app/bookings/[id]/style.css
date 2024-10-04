@@ -1,0 +1,16 @@
+.button-container{
+    display: flex;
+    cursor:pointer;
+}
+
+.button{
+    padding: 12px 12px;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.button-text{
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+}
